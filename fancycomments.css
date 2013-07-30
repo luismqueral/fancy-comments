@@ -126,14 +126,14 @@ Primary use:   Magazine
  |   Known Bugs:  There are no known bugs remaining in this program.
  |
  +===========================================================================*/
+(source: http://bit.ly/Msau3j)
+
 
 
 
 
 
 // DOCUMENT TABLE OF CONTENTS //
-
-
 
 
 /*------------------------------------------------------------------
@@ -200,6 +200,9 @@ Content header   h2
 
 
 
+
+
+
 // BIG OL' HEADINGS //
 
 /* 
@@ -246,7 +249,8 @@ Content header   h2
 
 
 
-// MEDIUM HEADINGS //
+
+// MEDIUM SIZED HEADINGS //
 
 /* =========================
             COMMENT
@@ -273,11 +277,9 @@ Content header   h2
    /////////////////////////// */
 
 
-/*  -------------------------  */
-/*           COMMENT           */
-/*  -------------------------  */
-
-
+/* --------------------------- */
+/*           COMMENT
+/* --------------------------- */
 
 
 
@@ -301,9 +303,12 @@ Content header   h2
 
 
 
-// BIG PARAGRAPH TEXT //
+// BIG 'OL PARAGRAPH TEXT //
 
-/*                              A BUNCHA TEXT 
+//open styles//
+
+
+/*                           A BUNCHA TEXT 
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
     eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -315,34 +320,42 @@ Content header   h2
  *                                                                      */
 
 
-/******************************************************\
-*                                                     *
-* effiyeh letterpress nisi                            *
-* 8-bit lo-fi artisan enim.                           *
-*                                                     *
-*                                                     *
-*                                                     *
-*                                                     *
-*                                                     *
-*                                                     *
-*                                                     *
-*                                                     *
-\******************************************************/
 
 
-/*=====================================================\
-|                                                     |
-| effiyeh letterpress nisi                            |
-| 8-bit lo-fi artisan enim.                           |
-|                                                     |
-|                                                     |
-|                                                     |
-|                                                     |
-|                                                     |
-|                                                     |
-|                                                     |
-|                                                     |
-\======================================================/
+/************************   A BUNCHA TEXT   ************************\
+                                                     
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+    eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+    nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+    pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+    culpa qui officia deserunt mollit anim id est laborum.                           
+
+\*******************************************************************/
+
+
+
+
+/*======================   A BUNCHA TEXT   ======================\
+                                                     
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+    eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+    nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+    pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+    culpa qui officia deserunt mollit anim id est laborum.                           
+                                                                                                                                         
+\================================================================*/
+
+
+
+
+
+//closed styles//
 
 
 /*******************************************************\
@@ -410,6 +423,12 @@ Content header   h2
 
 
 // SMALL PARAGRAPH TEXT //
+
+//open styles//
+
+
+
+//closed styles//
 
 /***************************\
 *                           *
