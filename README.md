@@ -1,4 +1,6 @@
 fancy-comments
 ==============
 
-a collection of css comment styles to use in your projects
+an open collection of comment styles to use in your projects.
+
+release date: 7/30/13
