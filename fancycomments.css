@@ -54,6 +54,83 @@ DOCUMENT INFO
 */
 
 
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project: Smashing Magazine
+Version: 1.1
+Last change:   05/02/08 [fixed Float bug, vf]
+Assigned to:   Vitaly Friedman (vf), Sven Lennartz (sl)
+Primary use:   Magazine 
+-------------------------------------------------------------------*/
+
+
+DOCUMENT TABLE OF CONTENTS
+
+/*------------------------------------------------------------------
+[Layout]
+
+* body
+   + Header / #header
+   + Content / #content
+      - Left column / #leftcolumn
+      - Right column / #rightcolumn
+      - Sidebar / #sidebar
+         - RSS / #rss
+         - Search / #search
+         - Boxes / .box
+         - Sideblog / #sideblog
+   + Footer / #footer
+
+Navigation    #navbar
+Advertisements   .ads
+Content header   h2
+-------------------------------------------------------------------*/
+(source: http://bit.ly/oxYlCa)
+
+
+/*------------------------------------------------------------------
+[Table of contents]
+
+1. Body
+   2. Header / #header
+      2.1. Navigation / #navbar
+   3. Content / #content
+      3.1. Left column / #leftcolumn
+      3.2. Right column / #rightcolumn
+      3.3. Sidebar / #sidebar
+         3.3.1. RSS / #rss
+         3.3.2. Search / #search
+         3.3.3. Boxes / .box
+         3.3.4. Sideblog / #sideblog
+         3.3.5. Advertisements / .ads
+   4. Footer / #footer
+-------------------------------------------------------------------*/
+(source: http://bit.ly/oxYlCa)
+
+
+/*------------------------------------------------------------------
+[Table of contents]
+
+1. Body
+2. Header / #header
+3. Navigation / #navbar
+4. Content / #content
+5. Left column / #leftcolumn
+6. Right column / #rightcolumn
+7. Sidebar / #sidebar
+8. RSS / #rss
+9. Search / #search
+10. Boxes / .box
+11. Sideblog / #sideblog
+12. Advertisements / .ads
+13. Footer / #footer
+-------------------------------------------------------------------*/
+(source: http://bit.ly/oxYlCa)
+
+
+
+
 BIG HEADINGS
 
 /* 
