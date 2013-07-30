@@ -131,7 +131,7 @@ Content header   h2
 
 
 
-BIG HEADINGS
+BIG OL' HEADINGS
 
 /* 
                                    COMMENT
@@ -183,6 +183,7 @@ MEDIUM HEADINGS
             COMMENT
    ========================= */
 
+
 /* .........................
             COMMENT
    ......................... */
@@ -203,6 +204,11 @@ MEDIUM HEADINGS
    /////////////////////////// */
 
 
+/*  -------------------------  */
+/*           COMMENT           */
+/*  -------------------------  */
+
+
 
 
 
@@ -214,6 +220,12 @@ SMALL HEADINGS
 /*    COMMENT    */
 
 /* ~~ COMMENT ~~ */
+
+/* -- COMMENT -- */
+
+/* // COMMENT // */
+
+/* ____COMMENT____ */
 
 
 
