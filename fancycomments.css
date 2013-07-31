@@ -30,7 +30,7 @@
 // About Fancy Comments //
 
 this project serves as a compilation for the various types of comments found in various
-kinds of programming documents such ass css documents, readme.txt's, .nfo, .msi, and
+kinds of programming documents such ass css documents, readme.txts, .nfo, .msi, and
 whatever else you need in-line documentation in.
 
 
@@ -203,7 +203,7 @@ Content header   h2
 
 
 
-// BIG OL' HEADINGS //
+// BIG HEADINGS //
 
 /* 
                                    COMMENT
@@ -250,7 +250,7 @@ Content header   h2
 
 
 
-// MEDIUM SIZED HEADINGS //
+// MEDIUM HEADINGS //
 
 /* =========================
             COMMENT
@@ -303,7 +303,7 @@ Content header   h2
 
 
 
-// BIG 'OL PARAGRAPH TEXT //
+// BIG OL PARAGRAPH TEXT //
 
 //open styles//
 
@@ -352,27 +352,6 @@ Content header   h2
 \================================================================*/
 
 
-
-
-
-//closed styles//
-
-
-/*******************************************************\
-//                                                     //
-// effiyeh letterpress nisi                            //
-// 8-bit lo-fi artisan enim.                           //
-//                                                     //
-//                                                     //
-//                                                     //
-//                                                     //
-//                                                     //
-//                                                     //
-//                                                     //
-//                                                     //
-\*******************************************************/
-
-
 /* ------------------------------------------------ A BUNCHA TEXT ----
     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
     eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -419,6 +398,24 @@ Content header   h2
    pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
    culpa qui officia deserunt mollit anim id est laborum.
  * //////////////////////////////////////////////////////////////// */
+
+
+//closed styles//
+
+
+/*******************************************************\
+//                                                     //
+// effiyeh letterpress nisi                            //
+// 8-bit lo-fi artisan enim.                           //
+//                                                     //
+//                                                     //
+//                                                     //
+//                                                     //
+//                                                     //
+//                                                     //
+//                                                     //
+//                                                     //
+\*******************************************************/
 
 
 
